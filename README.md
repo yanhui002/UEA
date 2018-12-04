@@ -3,6 +3,4 @@
 
 UEA is designed for attacking Faster-rcnn and SSD300 both for image and video object detection.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/EVpO-3MMEB0/0.jpg)](http://www.youtube.com/watch?v=EVpO-3MMEB0)
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/tu5Ku16ECO0/0.jpg)](http://www.youtube.com/watch?v=tu5Ku16ECO0)
-
+The video results can be found in https://sites.google.com/view/ueaattack/home
